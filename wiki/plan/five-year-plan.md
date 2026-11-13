@@ -3,7 +3,7 @@ type: topic
 domain: plan
 status: active
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §5 Year Plan (Core context, 2026, 2027, 2028–2029, 2030–2031)"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §5 Year Plan (Core context, 2026, 2027, 2028–2029, 2030–2031)", raw/2026-11-13-answers-from-andrew.md, "Financial Overview dashboard, as at 6 Nov 2026"]
 ---
 
 # The five-year plan, 2026–2031
@@ -55,11 +55,15 @@ studio supporting life and work; money calmer and stronger; AI-era leverage real
 transmission." The Life Plan then "stops functioning primarily as an interpretive framework and starts functioning as a
 factual description of the life being lived."
 
-## What has moved since it was written
-- **Salary-based money targets are superseded.** The plan assumed salary "remains stable" ($150k → $180k); the
-  redundancy replaced salary with a one-off payment and a runway to about April–May 2027 ([[budget-and-runway]]).
-- **"AI relevance must become economically credible" (2027) arrived early:** EmberSeed is a paid AI practice from
-  November 2026 ([[emberseed]]).
+## What has moved since it was written (13 November 2026)
+- **Salary-based money targets are superseded.** The redundancy replaced salary with a one-off $49,016.79; net worth
+  is $32,385 and spendable cash runs out around May 2027 on contracted revenue ([[budget-and-runway]]).
+- **"AI relevance must become economically credible" (2027) arrived early:** EmberSeed is a paid AI practice and
+  Andrew's first priority; SparkBoot is a side bet ([[2026-11-emberseed-first]]).
 - **SparkBoot's 2026 test is met in substance:** real testers in October ([[sparkboot]]).
-- **The 80 kg date** depends on current weight (Q25); see the arithmetic on [[body-composition]].
+- **The 80 kg target is kept** [A13 Q25], from 104 kg; see the arithmetic on [[body-composition]].
+- **Music has moved from 2026 to later:** set aside for Elliott and income [A13 Q29] ([[music]]).
+- **Housing (2028's "serious movement") is paused until there is money** [A13 Q10]; the land goal is the 100-acre
+  woodland [A13 Q35] ([[home-and-environment]]).
+- **Elliott started kindy in 2026**, a year ahead of the plan's 2027 line [A13 Q18].
 - **"A pure customer-success identity" (2028)** is already behind him ([[powerfleet]]).
