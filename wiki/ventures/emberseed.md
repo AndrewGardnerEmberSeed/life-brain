@@ -4,35 +4,46 @@ domain: ventures
 status: active
 volatile: clients, goal count and the entity question move weekly; the EmberSeed brain holds the live position
 updated: 2026-11-13
-sources: ["emberseed-brain wiki/index.md (updated 2026-11-13), operations/where-we-are.md (updated 2026-11-12), strategy/what-emberseed-is.md, legal/entity-and-names.md, read 2026-11-13", "raw/2026-03-09-life-plan-google-doc.md §Résumé (EmberSeed)", "Claude memory (emberseed), read 2026-11-13"]
+sources: ["emberseed-brain wiki/index.md (updated 2026-11-13), operations/where-we-are.md (updated 2026-11-12), strategy/what-emberseed-is.md, legal/entity-and-names.md, read 2026-11-13", "raw/2026-03-09-life-plan-google-doc.md §Résumé (EmberSeed)", "Claude memory (emberseed), read 2026-11-13", "raw/2026-11-13-answers-from-andrew.md Q03, Q05", "Financial Overview dashboard, as at 6 Nov 2026"]
 ---
 
 # EmberSeed
 
-EmberSeed as part of Andrew's life. **The business lives in `AndrewGardnerEmberSeed/emberseed-brain`, which is
+EmberSeed as part of Andrew's life: since 13 November 2026, **his first priority** among his income bets [A13 Q05] →
+[[2026-11-emberseed-first]]. **The business lives in `AndrewGardnerEmberSeed/emberseed-brain`, which is
 authoritative**; start at its `wiki/index.md` and `wiki/operations/where-we-are.md`.
 
 ## What it is
 Andrew's AI consultancy for small businesses: building AI into tools a business already pays for, training the team,
 documenting it so it keeps running; founder-led from Mylor; fixed prices, plain English, the client owns everything
 built. It began in 2019 as 12-week startup coaching and **relaunched as an AI consultancy in October 2026**
-[emberseed-brain, strategy/what-emberseed-is.md; LP §Résumé].
+[emberseed-brain, strategy/what-emberseed-is.md; LP §Résumé]. In Andrew's words, AI consulting clients are easier to
+get than job interviews [A13 Q03].
 
 **Not in the Life Plan's vehicles.** In March the plan named SparkBoot primary and First Beer Club secondary;
-EmberSeed appeared only on the résumé. It is now the business that earns ([[the-transition]]).
+EmberSeed appeared only on the résumé ([[the-transition]]).
 
 ## Where it stands (from its brain, read 13 Nov 2026)
 - **Goal:** five clients by 30 November 2026 (carried from October).
-- **Drafting Solutions** — client from 6 November 2026, the first toward the goal: a quoting review and AI ground rules;
-  terms with Clinton under discussion. Andrew's notes add an ongoing Fractional AI Lead retainer [Claude memory].
+- **Drafting Solutions** — client from 6 November 2026: a quoting review and AI ground rules, plus a Fractional AI Lead
+  retainer [emberseed-brain; Claude memory].
 - **Kemgro** — in negotiation; on the condition that Andrew does the work himself, without AI.
 - **Nawiri Care Services** — quote sent 12 November (AUD 28,200 annualised), met with David.
 - Leads: Greenbox, a surveying business (both via Lee-Anne Fernandez). ARCA on the board as won business, no revenue.
-- **In public:** the website, a nightly AI News, a free AI Playbook, and two automated YouTube shows (Kindling and Friday
-  Campfire).
+- **In public:** the website, a nightly AI News, a free AI Playbook, and two automated YouTube shows.
 - **Entity:** trades as Wilderness Properties Pty Ltd today; agreed with David on 29 October 2026 to move under First
   Beer Club Holdings and trade through First Beer Club Trading, 50-50, not yet papered → [[entities-and-ownership]].
 [emberseed-brain]
+
+## What it means for the household (Financial Overview, 6 Nov 2026)
+- **Contracted revenue to 30 June 2027: $21,600** — Drafting Solutions $4,500 on proof and $4,500 on acceptance, a
+  second client $3,000, and the Fractional AI Lead retainer at $1,600 a month, paid quarterly in advance.
+- That covers about a fifth of current spending; spendable cash runs out around **May 2027** on contracted revenue
+  alone. The dashboard's breakeven: about four retainers like Drafting Solutions, with spending back to cap.
+- **EmberSeed's running costs** (about $650 a month recurring and amortised: Anthropic, Google Ads, Squarespace,
+  Ventraip, Laravel, ASIC and the accountant) are paid from personal accounts.
+- Anything drawn personally is taxed at about 32% at the margin.
+→ [[budget-and-runway]]
 
 ## Its claims on Andrew's life
 - **The delivery model** is built to protect time: Andrew pitches; Claude Code builds while he works on other things;
@@ -40,5 +51,5 @@ EmberSeed appeared only on the résumé. It is now the business that earns ([[th
   [Claude memory]. That fits the plan's "intense bursts, not continuous" requirement — if scope holds.
 - **Coaching carries over.** Client rooms are where the February authenticity work (lead with questions, undersell,
   cut context) now applies ([[authenticity-and-ego]]).
-- **Risk to watch:** the plan's own rule, "one primary business objective at a time", against EmberSeed, SparkBoot and
-  a job search running together (Q05).
+- **The Choices:** EmberSeed is now the main body of the Digital Architect scene, which still names only SparkBoot
+  ([[choices-document]]; proposal in `review/2026-11-13-choices-updates.md`).

@@ -4,14 +4,14 @@ domain: ventures
 status: active
 volatile: launch status and ownership move; the SparkBoot brain holds the live position
 updated: 2026-11-13
-sources: ["sparkboot-brain wiki/index.md, operations/where-we-are.md (updated 2026-11-11), finance/sparkboot-ownership.md (updated 2026-10-30), read 2026-11-13", "raw/2026-03-09-life-plan-google-doc.md §Sparkboot: What It Is, §Sparkboot Business Plan, §Entrepreneurial transition, §Profile 6, §Monthly Progress Updates", "conversation 2026-08-10 — The Sprint", "conversation 2026-08-11 — Life Plan", "Claude memory (sparkboot), read 2026-11-13"]
+sources: ["sparkboot-brain wiki/index.md, operations/where-we-are.md (updated 2026-11-11), finance/sparkboot-ownership.md (updated 2026-10-30), read 2026-11-13", "raw/2026-03-09-life-plan-google-doc.md §Sparkboot: What It Is, §Sparkboot Business Plan, §Entrepreneurial transition, §Profile 6, §Monthly Progress Updates", "conversation 2026-08-10 — The Sprint", "conversation 2026-08-11 — Life Plan", "Claude memory (sparkboot), read 2026-11-13", "raw/2026-11-13-answers-from-andrew.md Q05, Q07, Q17"]
 ---
 
 # SparkBoot
 
-SparkBoot as part of Andrew's life: what it is for, what it costs him, and where it stands. **The business itself lives
-in `AndrewGardnerEmberSeed/sparkboot-brain`, which is authoritative**; start at its `wiki/index.md` and
-`wiki/operations/where-we-are.md`.
+SparkBoot as part of Andrew's life: since 13 November 2026, **second** of his income bets — "a side bet, but an
+important one for the future" [A13 Q05, Q17]. **The business itself lives in `AndrewGardnerEmberSeed/sparkboot-brain`,
+which is authoritative**; start at its `wiki/index.md` and `wiki/operations/where-we-are.md`.
 
 ## What it is
 An app that helps capable people displaced or disrupted by AI move from employment toward ownership: tailored startup
@@ -36,21 +36,21 @@ finance/how-sparkboot-earns.md]. *(The Life Plan had $10 for ten; the brain's lo
 [sparkboot-brain]
 
 ## Superseded
+- *SparkBoot as the primary entrepreneurial vehicle* [LP §Entrepreneurial transition] — superseded 13 November 2026:
+  second, behind EmberSeed [A13 Q05, Q17].
 - *"Currently approaching MVP stage; Andrew acts as sole architect, coder, and strategist"* [LP §Profile 6] —
   superseded: beta complete October 2026; built with Claude Code and, on the backend, John Croucher.
-- *"Strategically clear, operationally stalled … GitHub access blocking momentum"* [LP §January 2026 review]; the
-  February momentum win was "the code runs locally on your machine" [LP §February targets] — superseded by August:
-  backend access granted, nearly complete [conversation 2026-08-10 — The Sprint].
+- *"Strategically clear, operationally stalled … GitHub access blocking momentum"* [LP §January 2026 review] —
+  superseded by August: backend access granted, nearly complete [conversation 2026-08-10 — The Sprint].
 - *"The year fails if SparkBoot is still mainly elegant internal architecture by December"* [LP §Five-Year Plan 2026]
   — met in substance: real testers used it in October.
-- *SparkBoot as the primary entrepreneurial vehicle* [LP §Entrepreneurial transition] — **Unconfirmed (Q17)** now that
-  EmberSeed earns ([[the-transition]]).
 
 ## Its claims on Andrew's life
-- **Money:** a $2,000 hard limit for tech and infrastructure until revenue, set in August; "SparkBoot is not income
-  until $500 in paid subscriptions received" [financial_tracker.html, Rules]. Running costs are on the monday board
-  "SparkBoot — Costs" [sparkboot-brain]. Whether the ring-fence held: **Q07**.
-- **Time:** the plan's two 90-minute protected build blocks a week [LP §February targets] gave way to full-time
-  sprints after the redundancy.
+- **Money:** the August plan ring-fenced $2,000 for SparkBoot until revenue, and said "SparkBoot is not income until
+  $500 in paid subscriptions received" [financial_tracker.html, Rules]. Whether the ring-fence was set up isn't
+  remembered [A13 Q07]; its running costs are on the monday board "SparkBoot — Costs" [sparkboot-brain] and its
+  infrastructure in the Financial Overview's fixed costs.
+- **Time:** as a side bet, it now competes with EmberSeed for the same hours; the Life Plan's rule is one primary
+  objective at a time ([[the-transition]]).
 - **Andrew wants it to run fully automated** without his input — email handling, and moderation that flags ideas out
   of tolerance [Claude memory].
