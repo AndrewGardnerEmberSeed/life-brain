@@ -3,14 +3,14 @@ type: topic
 domain: self
 status: active
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Comprehensive Personal Profile 2–4, §Report from AI based on feedback and re-reading of life plan"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Comprehensive Personal Profile 2–4, §Report from AI based on feedback and re-reading of life plan", "raw/2026-11-13-answers-from-andrew.md Q39"]
 ---
 
 # Psychological profile
 
 The type frameworks Andrew uses on himself, and the February 2026 AI assessment built from colleagues' feedback.
-Whether the AI's estimated scores belong in the wiki at all is **Unconfirmed (Q39)**; they are estimates by a chat model
-from second-hand feedback, not a clinical or validated assessment.
+Andrew chose to keep the AI's estimated scores in the wiki [A13 Q39]; they are estimates by a chat model from
+second-hand feedback, not a clinical or validated assessment.
 
 ## MBTI: INTJ (Andrew's own framework)
 
