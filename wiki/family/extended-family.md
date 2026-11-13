@@ -18,7 +18,7 @@ The people the Life Plan treats as continuity across time, buffering stress and 
   time; consistency before depth [LP §Family 3.2].
 - **Doug and Jennifer** — elders, mentors and wise mirrors: scheduled time, access to their perspective; long-arc
   stabilisers. Doug is on the snow-skiing wish list with Elliott, Susan and Ellie [LP §Family 3.3; §Happiness 4].
-  He is also the Doug Andrew works with on ARCA, and one of SparkBoot's two guided testers [A13 Q23] → [[arca-pare]].
+  He is also the Doug Andrew works with on ARCA [A13 Q23] → [[arca-pare]].
 - **Mum** — advanced age, declining health, chronic discomfort, a strong bond with Elliott. Intent: warmth and dignity
   without emotional erosion; find shared interests; reduce complaint-dominant loops; compassion with boundaries;
   manage exposure rather than suppress irritation; don't try to fix ageing [LP §Family 3.4]. Sunday evenings included

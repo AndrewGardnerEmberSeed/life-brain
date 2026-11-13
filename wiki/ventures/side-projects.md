@@ -4,7 +4,7 @@ domain: ventures
 status: active
 volatile: hobby projects start, stall and finish without notice
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Profile 6 Game Design, §Life Purpose 5.2.2, §Happiness 3", "Claude memory (boots-and-cats, cyberdeck-mk1, cyberdeck-mk2, tech-setup, hobbies), read 2026-11-13", "GitHub repository list for AndrewGardnerEmberSeed, read 2026-11-13", "sparkboot-brain operations index (fridge-monitor, iphone-monitor), emberseed-brain operations index (emberseed-screen), read 2026-11-13"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Profile 6 Game Design, §Life Purpose 5.2.2, §Happiness 3", "Claude memory (boots-and-cats, cyberdeck-mk1, cyberdeck-mk2, tech-setup, hobbies), read 2026-11-13", "GitHub repository list for AndrewGardnerEmberSeed, read 2026-11-13", "sparkboot-brain operations index (fridge-monitor, iphone-monitor), emberseed-brain operations index (emberseed-screen), read 2026-11-13", "raw/2026-11-13-answers-from-andrew.md Q15, Q16"]
 ---
 
 # Side projects
@@ -16,9 +16,9 @@ where safe [LP §Happiness 3].
 ## Games
 - **Boots & Cats** — a co-op two-player pixel-art side-scroller to play with Elliott: one HTML file, SNES look,
   gamepad support [Claude memory].
-- **A two-player competitive arcade shooter** inspired by the 1980s, with symbolic mechanics and psychological
-  dynamics [LP §Profile 6], and **Pico-8 shooters** [LP §Happiness 3]. Still active: **Q16**.
 - A full text-based D&D 5e game prompt [Claude memory].
+- *Dropped 13 November 2026:* the two-player competitive arcade shooter inspired by the 1980s [LP §Profile 6] and the
+  Pico-8 shooters [LP §Happiness 3] [A13 Q16].
 
 ## Hardware
 - **Cyberdeck MK1 (PrepperPi)** — a briefcase offline field computer on a Raspberry Pi Zero W: Wi-Fi hotspot, offline
@@ -40,7 +40,10 @@ cockatoos and lorikeets; the Monster Puppy Truck [LP §Happiness 3].
 ## Restoration
 The blue Specialized Fuse BMX; repair or replace the Revox reel-to-reel [LP §Happiness 3].
 
-## Ideas without a home yet
-- **A social-media curation app** to counter doomscrolling — "attention is a moral resource" [LP §Life Purpose 5.2.2].
-  Status **Q15**.
+## Ideas
 - A metabolic tracking app; a lo-fi portable synth studio [Claude memory].
+- *Dropped 13 November 2026:* the social-media curation app to counter doomscrolling ("attention is a moral resource")
+  [LP §Life Purpose 5.2.2; A13 Q15].
+
+With money the binding constraint and EmberSeed first ([[2026-11-emberseed-first]]), anything here that costs money or
+weekday hours competes directly with the runway ([[budget-and-runway]]).

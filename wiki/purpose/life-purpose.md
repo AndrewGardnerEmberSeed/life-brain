@@ -3,7 +3,7 @@ type: topic
 domain: purpose
 status: active
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Life Purpose — Extended Summary, §Overview 9, §Executive Directive 2"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Life Purpose — Extended Summary, §Overview 9, §Executive Directive 2", "raw/2026-11-13-answers-from-andrew.md Q15, Q29"]
 ---
 
 # Life purpose
@@ -13,7 +13,7 @@ cultural contribution and ethical technological leverage, made concrete through 
 often with AI as partner, mirror and accelerator [LP §Life Purpose 1].
 
 ## Five interlocking domains
-1. **Songwriting and musical legacy** → [[music]]
+1. **Songwriting and musical legacy** → [[music]] *(set aside for now: [A13 Q29])*
 2. **Self-actualisation and psychological development**
 3. **Way of being** — character, tone, presence
 4. **Making a difference** — immediate and systemic
@@ -38,11 +38,11 @@ The February 2026 coaching added a fifth: **authentic** — precise, curious, un
 ## Making a difference
 - **Elliott first:** emotional safety, consistent presence, repair after rupture, empowerment over control, modelling
   emotional literacy and curiosity. "Every other ambition is subordinate to, and justified by, this role" [LP §5.1].
-- **Technology in transition:** SparkBoot, to help people move from employment into small viable businesses as AI
-  displaces jobs — agency, dignity, creativity ([[sparkboot]]); and a **social-media curation app** to counter
-  doomscrolling, on the belief that "attention is a moral resource" (status Q15, [[side-projects]]) [LP §5.2].
-- *Since March:* EmberSeed's AI consultancy and its free AI Playbook and nightly AI News carry the same intent —
-  helping ordinary businesses and people through the AI transition ([[emberseed]]).
+- **Technology in transition:** EmberSeed's AI consultancy, its free AI Playbook and nightly AI News help ordinary
+  businesses and people through the AI transition ([[emberseed]]); SparkBoot helps people move from employment into
+  small viable businesses as AI displaces jobs — agency, dignity, creativity ([[sparkboot]]) [LP §5.2].
+- *Dropped 13 November 2026:* the social-media curation app to counter doomscrolling, on the belief that "attention is
+  a moral resource" [LP §5.2.2; A13 Q15].
 
 ## Learning: the psychology of poetry
 Why certain poetic and prosaic forms reliably move people; how language shapes emotion, cognition and meaning. Daily
