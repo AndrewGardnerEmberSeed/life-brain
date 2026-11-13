@@ -4,22 +4,22 @@ domain: family
 status: active
 volatile: Elliott's age, schooling and care arrangements change year by year
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Family Domain 1 Elliot, §Five-Year Plan 2026–2031, §Happiness, §Mylor Weekly Rhythm, §Monthly Progress Updates January 2026", "conversation 2026-08-10 — The Sprint", "Claude memory (child, boots-and-cats, gaming), read 2026-11-13"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Family Domain 1 Elliot, §Five-Year Plan 2026–2031, §Happiness, §Mylor Weekly Rhythm, §Monthly Progress Updates January 2026", "conversation 2026-08-10 — The Sprint", "Claude memory (child, boots-and-cats, gaming), read 2026-11-13", "raw/2026-11-13-answers-from-andrew.md Q18, Q21"]
 ---
 
 # Elliott
 
 Andrew's son, the apex priority of the whole Life Plan ([[priority-arbitration]]). Andrew's own words:
-[[statement-on-elliott]]. *(The Life Plan spells him both Elliott and Elliot; which is right is Q21.)*
+[[statement-on-elliott]]. The spelling is **Elliott** [A13 Q21]; the Life Plan's "Elliot" is a typo.
 
-## Now
-- About 3.5 in January 2026, so about 4 now [LP §Profile 1; §Five-Year Plan 2026]. Moving toward kindy rhythm in
-  2026; kindy start **Unconfirmed (Q18)**.
-- **Time together:** in the weekly rhythm, Wednesday evening, all Saturday from 9:30 am, and Sunday until handover
-  [LP §Mylor Weekly Rhythm]; weekends and Thursday evenings were protected in the August sprint plan
-  [conversation 2026-08-10 — The Sprint]. Current pattern **Unconfirmed (Q18)**.
-- **In every review on record, the strongest domain**: highly present, emotionally available, home life happy and
-  secure; "actively buffering stress from other areas" [LP §January 2026 review].
+## Now (13 November 2026)
+- About 3.5 in January 2026, so about 4 now [LP §Profile 1; §Five-Year Plan 2026]. **Kindy has started** [A13 Q18].
+- **Time together:** unchanged [A13 Q18]: Wednesday evening, all Saturday from 9:30 am, and Sunday until handover
+  [LP §Mylor Weekly Rhythm].
+- **The strongest domain all year**: in January, highly present, emotionally available, home life happy and secure,
+  "actively buffering stress from other areas" [LP §January 2026 review]; in November, the Fatherhood scene of the
+  Choices reads as integration ([[choices-document]]). Andrew has set songwriting aside partly to focus on Elliott
+  [A13 Q29].
 - **What they do:** gaming together (co-op Switch games), hiking, building and making things up [LP §Happiness;
   Claude memory]. Andrew is building **Boots & Cats**, a co-op two-player pixel-art side-scroller, to play with him
   ([[side-projects]]).
@@ -43,7 +43,7 @@ safety; treat good behaviour as a proxy for wellbeing. **He must:** regulate him
 instructs; repair ruptures explicitly; shield Elliott from adult emotional spillover [LP §Family 1.3].
 
 **Attachment:** Andrew as secure base, safe harbour and interpreter of experience. The signal to watch: does Elliott
-move away with confidence and return easily? [LP §Family 1.4]
+move away with confidence and return easily? [LP §Family 1.4] Starting kindy is exactly that test.
 
 **Ages 4–12 — infrastructure, not harvest:** nature (weather, terrain, risk within safety); technology as a creative
 tool with explanation; language for feelings and repair; agency scaled to capacity; imagination — stories, pretend
