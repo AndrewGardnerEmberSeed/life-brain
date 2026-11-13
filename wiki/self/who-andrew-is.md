@@ -4,36 +4,40 @@ domain: self
 status: active
 volatile: age, work and circumstances move; check the superseded lines
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Comprehensive Personal Profile, §The Nature of the Subject", "conversation 2026-08-11 — Life Plan", "Claude memory (profile), read 2026-11-13", "emberseed-brain strategy/what-emberseed-is.md, read 2026-11-13"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Comprehensive Personal Profile, §The Nature of the Subject", "conversation 2026-08-11 — Life Plan", "Claude memory (profile), read 2026-11-13", "emberseed-brain strategy/what-emberseed-is.md, read 2026-11-13", raw/2026-11-13-answers-from-andrew.md, "Financial Overview dashboard, as at 6 Nov 2026"]
 ---
 
 # Who Andrew is
 
 Andrew William Gardner, in one page: the facts, the self-description, and what has changed since the Life Plan.
 
-## Facts
+## Facts (13 November 2026)
 
 - **Age:** turned 55 on 21 August 2026 [conversation 2026-08-11 — Life Plan]. *(The Life Plan's "55, born ~1971" in
   January was a little early.)*
-- **Lives:** Mylor, in the Adelaide Hills, South Australia, as a tenant [Claude memory; LP §Profile 1].
-- **Family:** divorced; father to Elliott (about 3.5 in January 2026, so about 4 now) [[elliott]]; in a relationship
-  with Susan since about 2025 [[susan]]. Divorce completion **Unconfirmed (Q20)**.
+- **Lives:** Mylor, in the Adelaide Hills, South Australia, renting through Deft [A13 Q33; LP §Profile 1].
+- **Family:** separated, the divorce not yet started, held back by money [A13 Q20]; father to Elliott, now at kindy
+  [A13 Q18] → [[elliott]]; with Susan since about 2025, the relationship "more intimate and strong" [A13 Q19] →
+  [[susan]].
 - **Education:** BA (Politics), University of Adelaide, 1992 [LP §Résumé].
 - **Work:** 20+ years leading sales, retention and customer-success teams (IAG, Origin Energy, Optus, Powerfleet)
-  → [[career-history]]. Powerfleet ended in redundancy in 2026 → [[powerfleet]].
-- **Now:** founder of EmberSeed, an AI consultancy for small businesses relaunched in October 2026 [[emberseed]];
-  majority owner and builder of SparkBoot [[sparkboot]]; director of First Beer Club Holdings and Trading and of
-  Wilderness Properties [[entities-and-ownership]]; looking for work, terms **Unconfirmed (Q03)** [[job-search]].
+  → [[career-history]]. Retrenched as Powerfleet's Regional Head of Customer Success; final pay 10 September 2026
+  [A13 Q04; Financial Overview] → [[powerfleet]].
+- **Now:** founder of EmberSeed, an AI consultancy for small businesses, his first priority; SparkBoot second; an
+  occasional job search third [A13 Q05] → [[2026-11-emberseed-first]]. Director of First Beer Club Holdings and
+  Trading and of Wilderness Properties → [[entities-and-ownership]].
 - **Describes himself as** "an AI entrepreneur, not a traditional coder", who gets things right by testing with
   Claude [Claude memory].
 
 ## Superseded
 - *"National Head of Customer Success (Australia), PowerFleet; $150,000 + $15,000 bonus"* [LP §Profile 5] —
-  superseded 2026: the role was made redundant ([[powerfleet]], Q01).
+  superseded 2026: retrenched; the title was Regional Head of Customer Success [A13 Q04].
 - *"SparkBoot … approaching MVP stage; Andrew acts as sole architect, coder and strategist"* [LP §Profile 6] —
-  superseded: SparkBoot ran a public TestFlight beta to 23 October 2026, is built with Claude Code and earlier with
-  backend developer John Croucher, and is owned 80/10/5/5 ([[sparkboot]]).
-- *"Net worth ~$25,000"* [LP §Profile 7] — a January 2026 figure; current position **Unconfirmed (Q06)**.
+  superseded: beta complete October 2026; built with Claude Code and, on the backend, John Croucher; now a side bet
+  [A13 Q17] ([[sparkboot]]).
+- *"Net worth ~$25,000"* [LP §Profile 7] — a January 2026 figure; $32,385 on 6 November 2026, after the redundancy
+  payment [Financial Overview]. Live figure: [[budget-and-runway]].
+- *"Divorced"* [LP §Profile 1] — corrected: the divorce is not complete and not started [A13 Q20].
 
 ## How he sees himself (the Life Plan's portrait)
 

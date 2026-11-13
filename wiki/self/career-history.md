@@ -4,7 +4,7 @@ domain: self
 status: active
 volatile: the résumé dates from early 2026 and predates the redundancy and EmberSeed's relaunch
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Résumé, §Profile 5", "emberseed-brain strategy/what-emberseed-is.md, read 2026-11-13"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Résumé, §Profile 5", "emberseed-brain strategy/what-emberseed-is.md, read 2026-11-13", "raw/2026-11-13-answers-from-andrew.md Q03, Q04", "Financial Overview dashboard, as at 6 Nov 2026 (final pay)"]
 ---
 
 # Career history
@@ -18,8 +18,8 @@ of $20M+; ADKAR change management; sales strategy and incentive design [LP §Ré
 
 | Years | Role | Highlights |
 |---|---|---|
-| Jan 2024 – 2026 | **Powerfleet**, Regional Head of Customer Success *(Life Plan profile: National Head of Customer Success, Australia — which is right is Q04)* | $18M+ ARR portfolio; CSAT 62% → 73% in six months; churn under 5% against a 20% global expectation; ADKAR plan for the Fleet Complete acquisition; zero attrition through the merger at 40% under headcount; a pricing review projecting $430k profit; 90% of strategic clients on Gainsight success plans; **National Leader of the Year 2025**. Ended in redundancy → [[powerfleet]] |
-| Jul 2019 – now | **EmberSeed**, Director / owner | Began as 12-week startup coaching (three businesses launched in six months; financial interests in some ventures). **Relaunched October 2026 as an AI consultancy for small businesses** → [[emberseed]] |
+| Jan 2024 – Sep 2026 | **Powerfleet**, Regional Head of Customer Success [A13 Q04] | $18M+ ARR portfolio; CSAT 62% → 73% in six months; churn under 5% against a 20% global expectation; ADKAR plan for the Fleet Complete acquisition; zero attrition through the merger at 40% under headcount; a pricing review projecting $430k profit; 90% of strategic clients on Gainsight success plans; **National Leader of the Year 2025**. Retrenched; final pay 10 September 2026 → [[powerfleet]] |
+| Jul 2019 – now | **EmberSeed**, Director / owner | Began as 12-week startup coaching (three businesses launched in six months; financial interests in some ventures). **Relaunched October 2026 as an AI consultancy for small businesses**; Andrew's first priority → [[emberseed]] |
 | Feb 2020 – Feb 2021 | **Optus**, National Telesales Manager (SMB) | Built a new B2B sales channel in COVID; account management output +50%; built scripts, dashboards, a 3-day sales and 2-day leadership programme; highest retention nationally; national leadership recognition |
 | Dec 2013 – Jul 2019 | **IAG**, Regional Manager | $20M portfolio; tripled regional growth over five years; most profitable team nationally five years running; highest client satisfaction and NPS |
 | Jul 2010 – Dec 2013 | **Origin Energy**, Manager, Acquisition and Retention | 168 staff across SA and Victoria; sales doubled twice in 2012; $4M a year saved re-engineering an offshore partnership |
@@ -30,5 +30,8 @@ of $20M+; ADKAR change management; sales strategy and incentive design [LP §Ré
 
 [LP §Résumé]
 
-The résumé closes seeking "a senior leadership mandate within a forward-thinking technology organisation"; whether
-that is still the target is Q03 ([[job-search]]).
+*Superseded:* the Life Plan profile's title "National Head of Customer Success (Australia)" [LP §Profile 5]; Andrew
+confirmed Regional [A13 Q04].
+
+The résumé closes seeking "a senior leadership mandate within a forward-thinking technology organisation". The search
+now runs third, behind EmberSeed and SparkBoot ([[job-search]]).
