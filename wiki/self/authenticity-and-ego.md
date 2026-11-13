@@ -3,13 +3,13 @@ type: topic
 domain: self
 status: active
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Professional Business Coaching, February 2026, §Report from AI §6–10, §Session Notes – Wayne Krueger (26 February 2026)"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Professional Business Coaching, February 2026, §Report from AI §6–10, §Session Notes – Wayne Krueger (26 February 2026)", "raw/2026-11-13-answers-from-andrew.md Q40"]
 ---
 
 # Authenticity and ego: the February 2026 coaching
 
-The developmental work Andrew began in February 2026 with business coach Wayne Krueger. Whether it continued is
-**Unconfirmed (Q40)**.
+The developmental work Andrew began in February 2026 with business coach Wayne Krueger. The coaching has ended
+[A13 Q40]; this page is the record of what it produced.
 
 ## Wayne's starting point
 Maximising strengths is "a young man's game"; real forward movement comes from working on weaknesses. Questions he
