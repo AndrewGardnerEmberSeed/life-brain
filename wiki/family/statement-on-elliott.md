@@ -4,13 +4,13 @@ domain: family
 status: active
 locked: true
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Personal statement on Elliott"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Personal statement on Elliott", "raw/2026-11-13-answers-from-andrew.md Q41"]
 ---
 
 # Personal statement on Elliott
 
-Andrew's own statement of what he wants for his son, copied unchanged. Locked: only Andrew changes it. **Lock
-confirmed? (Q41)**
+Andrew's own statement of what he wants for his son, copied unchanged. Locked, and the lock and wording confirmed by
+Andrew on 13 November 2026 [A13 Q41]: only he changes it.
 
 > I want Elliott to be thriving with lively engagement with his life. I want him meeting milestones easily and being
 > healthy and well. I need to consider what is next for him: kindergarten, extra-curricular lessons and connection to
