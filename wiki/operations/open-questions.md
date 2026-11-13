@@ -2,15 +2,17 @@
 type: topic
 domain: operations
 status: active
-volatile: questions close as Andrew answers them on monday; this page and the board must agree
+volatile: questions close as Andrew answers them; this page and the Andrew Actions items must agree
 updated: 2026-11-13
 sources: ["conversation 2026-11-13 — the life brain built from the Life Plan", raw/2026-11-13-answers-from-andrew.md]
 ---
 
 # Open questions
 
-Things Claude could not confirm, each mirrored as an item on the monday board **Life Brain — Questions for Andrew**
-(board 18439774691). A page that depends on an answer marks the claim **Unconfirmed (Qnn)**. When Andrew answers, the
+Things Claude could not confirm, each mirrored as an item in the Inbox of the monday board **Andrew Actions**
+(Category: Life Plan). The first 41 were asked on a board of their own, "Life Brain — Questions for Andrew", deleted at
+Andrew's request on 13 November 2026 once they were answered; Q42 moved to Andrew Actions. A page that depends on an
+answer marks the claim **Unconfirmed (Qnn)**. When Andrew answers, the
 claim is confirmed or superseded and the question moves to *Closed*.
 
 ## Open
