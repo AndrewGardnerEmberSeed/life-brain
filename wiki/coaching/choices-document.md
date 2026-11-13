@@ -3,15 +3,17 @@ type: source
 domain: coaching
 status: active
 locked: true
+volatile: the map section is rescored at each monthly review; the text itself changes only when Andrew changes it
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Choices - Andrew, §How the Choices Document Works", "conversation 2026-08-11 — Life Plan (compensation versus integration)"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Choices - Andrew, §How the Choices Document Works", "conversation 2026-08-11 — Life Plan (compensation versus integration)", "raw/2026-11-13-answers-from-andrew.md (Q37 and the answers mapped below)"]
 ---
 
 # The Choices document
 
-Andrew's daily identity re-selection, read every morning in the shower [LP §Choices - Andrew]. The text below is his,
-copied unchanged, so it is locked. Whether he still reads it daily, and whether any scene should change, is
-**Unconfirmed (Q37)**.
+Andrew's daily identity re-selection, read every morning in the shower [LP §Choices - Andrew]. **He still reads it
+daily; it needs updating; and it is to be central to this brain** [A13 Q37]. So: the text below is his, copied
+unchanged and locked; the map after it ties each scene to the pages that hold the facts and to where reality stands;
+proposed changes to the text wait for him in `review/2026-11-13-choices-updates.md`.
 
 ## The text
 
@@ -77,6 +79,29 @@ I choose the end result of sharing unhurried evenings with friends — the kind 
 
 I choose the end result of finding quiet moments amid the day’s currents. - In the early light, the kettle hums softly, steam curling upward like gentle whispers. I step outside, feeling the cool morning air brush against my skin, each breath a leaf falling gently in a stream. As the sun arcs overhead, I pause, letting the world’s rhythm slow, like leaves settling on still water. In the evening, a candle flickers, casting shadows that dance on the walls, each moment of stillness a quiet renewal. Through these simple gestures, I replenish my spirit, letting the quiet moments fill the spaces between the demands.
 
+## The map: each scene against reality (13 November 2026)
+
+**Integration** means the scene is slightly ahead of life and pulling it forward; **compensation** means it is far
+ahead and doing reparative work instead [conversation 2026-08-11 — Life Plan]. Rescored at every monthly review
+(CLAUDE.md, "The Choices at the centre").
+
+| Scene | Pages | Where it stands | Reading |
+|---|---|---|---|
+| **Fatherhood** | [[elliott]], [[statement-on-elliott]] | Kindy started; care pattern unchanged; the strongest domain all year [A13 Q18] | Integration |
+| **Partnership** | [[susan]] | Unchanged arrangements; "more intimate and strong" [A13 Q19] | Integration |
+| **Connection with Friends** | [[friends]] | Games nights with Simon and Ainsley happening [A13 Q24] | Integration |
+| **Self-Care** | [[health-system]] | Chinese medicine going well; meditation and other initiatives stalled [A13 Q28] | Partial |
+| **Digital Architect** | [[emberseed]], [[sparkboot]], [[the-transition]] | EmberSeed earning (first client 6 Nov, $21,600 contracted to June 2027); SparkBoot beta done, now a side bet. The scene names only SparkBoot [A13 Q05, Q17; Financial Overview, 6 Nov 2026] | The craft is integrating; "value flowing cleanly" is not yet true while burn exceeds revenue |
+| **Vitality** | [[body-composition]], [[health-system]] | 104 kg (from 107.4 in April); walk/run four mornings a week; diet slow; 80 kg target kept [A13 Q25–Q27] | Compensation, moving the right way |
+| **Home** | [[home-and-environment]] | Renting in Mylor; buy–renovate–sell paused until there is money; the long-term goal the 100-acre woodland [A13 Q10, Q33, Q35] | Compensation |
+| **Studio** | [[home-and-environment]], [[music]] | The studio needs work to set up [A13 Q33] | Compensation |
+| **Musical Legacy** | [[music]] | Songwriting not resumed; all albums stalled; by choice, for Elliott and income [A13 Q29–Q31] | Compensation, the widest gap |
+| **Travel & Freedom** | [[happiness-system]], [[budget-and-runway]] | Spendable cash runs out around May 2027 on contracted revenue [Financial Overview, 6 Nov 2026] | Compensation |
+
+What the map shows: the relational scenes (Fatherhood, Partnership, Friends) are true or nearly true; the scenes that
+need money (Home, Travel, Studio) and the one Andrew has deliberately set aside (Music) are furthest away. Digital
+Architect is the hinge: it is the scene whose progress pays for the others.
+
 ## How it works (the Life Plan's own account)
 
 - **Identity re-selection, not positive thinking.** "I choose the end result of…" selects identity-level outcomes, not
@@ -90,19 +115,16 @@ I choose the end result of finding quiet moments amid the day’s currents. - In
   overspending, rushing, over-committing); Music = transmission, not validation; Vitality = ease, not heroics (corrects
   all-or-nothing fitness and shame resets) [LP §3].
 - **Deliberately non-instructional.** No to-do lists, metrics or timelines; it sits upstream of the plans and trackers
-  and keeps the compass calibrated [LP §4].
+  and keeps the compass calibrated [LP §4]. The map above is the bridge between the two: the Choices stay free of
+  metrics, and the brain carries the facts beside them.
 - **A counterweight to his most dangerous pattern**: succeeding at the wrong things under pressure (presence traded for
   productivity, health for responsibility, depth for generosity, agency for relief) [LP §5].
 - "You read it each morning because it prevents drift. Not drift of mood — drift of identity under load" [LP §7].
 
 ## The August 2026 assessment
 
-When Andrew asked for the Life Plan and the Choices to be read together (11 August 2026), the distinction drawn was
-**compensation** (a scene far ahead of reality, doing reparative work) versus **integration** (a scene slightly ahead
-of reality, pulling). Fatherhood read as closest to integration; Vitality ("eighty kilos") and Digital Architect as
-furthest. The structural risk named: read without a concrete execution layer, the document can enable the very
-abstraction drift the Life Plan identifies as his main failure mode [conversation 2026-08-11 — Life Plan]. Whether it
-should gain an execution layer was left open (Q37).
-
-Since then the Digital Architect scene has more to anchor to than it did in August: a SparkBoot beta, EmberSeed's first
-client, several systems running on his desk ([[sparkboot]], [[emberseed]], [[side-projects]]).
+When Andrew asked for the Life Plan and the Choices to be read together (11 August 2026), Fatherhood read as closest to
+integration and Vitality and Digital Architect as furthest, with the risk that, read without a concrete execution
+layer, the document can enable the very abstraction drift the Life Plan names as his main failure mode
+[conversation 2026-08-11 — Life Plan]. Since then Digital Architect has moved most: from a stalled build to a paying
+practice and a finished beta.
