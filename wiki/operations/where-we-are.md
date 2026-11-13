@@ -43,6 +43,6 @@ The compass ([[choices-document]]). Full map there.
 1. **Upload the Life Plan's full text** to `raw/` (`raw/2026-03-09-life-plan-google-doc.md`); pages cite it.
 2. **Archive the Google Doc** with a note pointing here (Q36). Only Andrew can edit it.
 3. **Two decisions waiting in `review/`:** the proposed Choices updates, and whether to file the note about Mum.
-4. **Q42** on the board.
+4. **Q42**, in the Andrew Actions Inbox.
 5. **The first drafted monthly review** arrives on 1 December ([[monthly-reviews]]); November's is
    [[2026-11]].
