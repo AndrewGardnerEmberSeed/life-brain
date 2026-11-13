@@ -19,7 +19,7 @@ A plain-English guide to the repository, for Andrew and for any agent reading it
 - **What was corrected.** Facts that moved after March (employment, ventures, companies, rent, age) are marked
   *superseded* on the page, with what replaced them and the source. Nothing was silently overwritten.
 - **What isn't known.** Where no source in reach confirmed a fact, the page says **Unconfirmed (Qnn)** and the
-  question is on [[open-questions]] and the monday board *Life Brain — Questions for Andrew*.
+  question is on [[open-questions]] and in the Andrew Actions Inbox on monday.
 - **Locked pages** are Andrew's decisions: the priority rule ([[priority-arbitration]]), the personal statement on
   Elliott ([[statement-on-elliott]]) and the Choices document's text ([[choices-document]]). Agents don't change them.
 - **Its sister brains.** SparkBoot and EmberSeed keep their own memories (`sparkboot-brain`, `emberseed-brain`). This

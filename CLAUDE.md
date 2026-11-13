@@ -112,9 +112,9 @@ Rules:
 - **Superseded, not deleted.** When a fact stops being true, keep the old claim, mark it superseded, say what replaced
   it and when. The reasoning is the asset.
 - **Unconfirmed is said out loud.** A claim Claude inferred, or carried forward without fresh evidence, is marked
-  **Unconfirmed (Qnn)**, where Qnn is its question in `wiki/operations/open-questions.md` and on the monday board
-  "Life Brain — Questions for Andrew". When Andrew answers, the claim is confirmed or superseded and the question
-  closed.
+  **Unconfirmed (Qnn)**, where Qnn is its question in `wiki/operations/open-questions.md`, mirrored as an item in the
+  Inbox of the monday board "Andrew Actions" (Category: Life Plan). When Andrew answers, the claim is confirmed or
+  superseded and the question closed.
 - **Values that move get a pointer, not a copy.** Weight, balances, runway, counts: name where the live value lives.
   Money lives in Andrew's Financial Overview dashboard. Quote a moving value only with its date.
 - **Dates are absolute.** Never "last week".
