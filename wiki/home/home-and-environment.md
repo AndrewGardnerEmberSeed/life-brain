@@ -2,9 +2,9 @@
 type: topic
 domain: home
 status: active
-volatile: housing status and studio state change; the rental and the buy–renovate–sell plan both need confirming
+volatile: housing status and studio state change
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Environment — Foundational Life Plan Specification (2025–2030), §Choices Home and Studio, §Financial Strategy 6, §Happiness 2–3, §Executive Directive 2", "financial_tracker.html (Life Plan Project, 2026-08-07)", "Claude memory (profile), read 2026-11-13"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Environment — Foundational Life Plan Specification (2025–2030), §Choices Home and Studio, §Financial Strategy 6, §Happiness 2–3, §Executive Directive 2", "Financial Overview dashboard, as at 6 Nov 2026 (rent)", "raw/2026-11-13-answers-from-andrew.md Q09, Q10, Q33, Q35"]
 ---
 
 # Home and environment
@@ -13,27 +13,28 @@ Environment as a behaviour-shaping system: "For Andrew, context is decisive." Th
 not by intelligence or values but by **friction, clutter, noise and misaligned context**, so environment design is a
 first-order intervention [LP §Environment 1].
 
-## Now: renting in Mylor
-A tenant in Mylor, rented through Deft; rent $1,224 a month from August 2026 [Claude memory; financial_tracker.html].
-Still the case: **Q33**. While renting, the goal is local optimisation: less friction, more order, creative support,
-easy maintenance — studio consolidation, cable management, storage, fewer visual interruptions, faster setup
-[LP §Environment 4.3]. **Studio completion:** all cables routed and hidden, tools out of sight, no temporary piles,
-usable without setup [LP §Environment 5.3]; finishing the Mylor studio is also a happiness project [LP §Happiness 3].
+## Now (13 November 2026): renting in Mylor
+Still renting in Mylor through Deft [A13 Q33]; rent **$1,180 a fortnight** [A13 Q09], about $2,557 a month
+[Financial Overview]. **The studio needs work to set up** [A13 Q33]. While renting, the goal is local optimisation:
+less friction, more order, creative support, easy maintenance — studio consolidation, cable management, storage, fewer
+visual interruptions, faster setup [LP §Environment 4.3]. **Studio completion:** all cables routed and hidden, tools out
+of sight, no temporary piles, usable without setup [LP §Environment 5.3].
 
-## The strategic priority: buy → renovate → sell
-"Explicitly a HIGH-PRIORITY LIFE GOAL. Not optional. Not aspirational. Structural." Buy a run-down, structurally sound
-property, renovate intelligently, sell, repeat — building equity, confidence, agency, a model of capability for Elliott,
-and a path to rural land. **Renovation pathway beats lifestyle indulgence**; any decision that delays it must be
-justified [LP §Environment 4.2, 11]. The money strategy echoes it: deposit first ([[financial-strategy]]). With salary
-gone and capital from the redundancy now the runway, whether it stays top-tier or pauses: **Q10**.
+The Home and Studio scenes of the Choices read as compensation ([[choices-document]]).
+
+## Buy → renovate → sell: paused
+The Life Plan called it "Explicitly a HIGH-PRIORITY LIFE GOAL. Not optional. Not aspirational. Structural": buy a
+run-down, structurally sound property, renovate, sell, repeat — equity, confidence, agency, a model of capability for
+Elliott, a path to rural land; "renovation pathway beats lifestyle indulgence" [LP §Environment 4.2, 11].
+**13 November 2026: paused until there is money** [A13 Q10] → [[budget-and-runway]].
 
 ## The long-term vision
-A rural or semi-rural property with room for Elliott to roam, workshop and studio together, durable materials,
-"evidence of work, not show" [LP §Environment 4.4]. The Choices: "our home in the hills, the home my creative
-inventiveness built… paid for, lived in, loved," and a spacious, sound-damped studio ([[choices-document]]). The
-land appears as **"the 100-acre woodland"** in the Executive Directive and as **"a 50+ acre rural retreat"** on the
-bucket list, with the **Clare caravan site** as a base for father–son adventure [LP §Executive Directive 2; §Happiness
-2]. Which is current: **Q35**.
+A rural property with room for Elliott to roam, workshop and studio together, durable materials, "evidence of work, not
+show" [LP §Environment 4.4]. **The goal is the 100-acre woodland** [A13 Q35] (the Executive Directive's "generational
+stability of the 100-acre woodland" [LP §Executive Directive 2]; the bucket list's "50+ acre rural retreat" is
+superseded). The **Clare caravan site**, a base for father–son adventure, is unchanged [A13 Q35; LP §Happiness 2]. The
+Choices: "our home in the hills, the home my creative inventiveness built… paid for, lived in, loved"
+([[choices-document]]).
 
 ## How environment works on him (for an agent)
 - **Causal chains:** messy car → shame → irritation → sharper tone with Elliott; unfinished spaces → self-criticism →
@@ -51,5 +52,7 @@ bucket list, with the **Clare caravan site** as a base for father–son adventur
   reacts." "Order is kindness to the future self."
 [LP §Environment 6–13]
 
-Vehicles → [[vehicles]]. Computers and studio gear → [[tech-setup]]. The office environment (Power BI dashboard,
-commute) is superseded with Powerfleet ([[powerfleet]]).
+One of the plan's heuristics applies directly now: with the studio not set up, "low creativity → inspect the studio"
+is also the cheapest step back toward music, since setting it up costs time rather than money ([[music]]).
+
+Vehicles → [[vehicles]]. Computers and studio gear → [[tech-setup]].
