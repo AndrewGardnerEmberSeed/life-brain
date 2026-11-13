@@ -3,13 +3,14 @@ type: topic
 domain: money
 status: active
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Andrew Gardner — 2026 Financial Strategy, §Profile 7, §Five-Year Plan"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Andrew Gardner — 2026 Financial Strategy, §Profile 7, §Five-Year Plan", "Financial Overview dashboard, as at 6 Nov 2026", "raw/2026-11-13-answers-from-andrew.md Q10"]
 ---
 
 # Financial strategy
 
 The Life Plan's 2026 money strategy: "not a budget… a re-architecture of identity, incentives, and flow." Its purpose:
-abundance, security, optionality and freedom for Andrew and Elliott, 2026–2031 [LP §Financial Strategy].
+abundance, security, optionality and freedom for Andrew and Elliott, 2026–2031 [LP §Financial Strategy]. The live
+numbers are in the Financial Overview dashboard → [[budget-and-runway]].
 
 ## Four outcomes every money decision is tested against
 1. **Security** — no background anxiety about money, housing or basics.
@@ -37,25 +38,28 @@ from "money is something I manage around my real life" to "money is a force mult
    recognition and long horizons, not stock-picking: asymmetric upside, volatility in capital not in life, conviction
    bets kept apart from speculation, never investing from anxiety; favour assets that benefit from AI-driven labour
    displacement (scalable digital products, automation businesses, ownership over hours). History: optimistic about
-   Bitcoin, with cautious modelling; an ongoing crypto conversation with Laren and Hara [LP §Profile 7; §Family 3.1].
+   Bitcoin, with cautious modelling; a crypto conversation with Laren and Hara; $4,239 in Coinspot on 6 November 2026
+   [LP §Profile 7; §Family 3.1; Financial Overview].
 3. **Meaningful generosity — "Giving becomes deliberate, not reactive."** Intentional, periodic, celebrated, contained:
    experiences with Elliott, specific people, beauty and art. Never impulsive rescue, giving to reduce discomfort, or
    money in place of boundaries.
 [LP §Financial Strategy 4–8]
 
-**Housing** is a top-tier strategic anchor, not lifestyle inflation: prioritise the deposit; stability and location
-over aesthetics; push back on overspending elsewhere and on "research" that is really delay [LP §Financial Strategy 6].
-→ [[home-and-environment]]
+**Housing** is a top-tier strategic anchor, not lifestyle inflation [LP §Financial Strategy 6]. **Paused until there is
+money** (13 November 2026) [A13 Q10] → [[home-and-environment]].
 
 ## Metrics
 Monthly: savings growth (absolute), liquidity runway in months, deposit progress. Quarterly: allocation clarity, less
 money anxiety, fewer regret moments. Annually: net-worth change, dependency reduction, time freedom gained
-[LP §Financial Strategy 9].
+[LP §Financial Strategy 9]. The dashboard now carries the first two.
 
-## The five-year numbers (as written in early 2026)
-Net worth about $25,000 in January 2026; 2026 target $40–50k at year end "if leakage is reduced **and salary remains
-stable**"; 2027 salary toward $180k, savings $50–70k, net worth $70–100k; 2028 deposit or equity step
-[LP §Five-Year Plan]. **Superseded in part:** the salary assumption failed with the redundancy; the redundancy payment
-replaced income with capital. Current net worth and runway: **Q06** → [[budget-and-runway]].
+## The five-year numbers
+As written in early 2026: net worth about $25,000 in January; $40–50k by the end of 2026 "if leakage is reduced **and
+salary remains stable**"; 2027 salary toward $180k, savings $50–70k, net worth $70–100k; 2028 a deposit or equity step
+[LP §Five-Year Plan].
+
+**Where it stands:** net worth **$32,385 on 6 November 2026**, after a $49,016.79 redundancy payment in September and
+down from $49,960 on 18 September [Financial Overview]. The salary assumption failed with the redundancy, and the 2026
+target will not be met. Layer 1 is the whole job until the burn and the income meet ([[budget-and-runway]]).
 
 "Money becomes quieter. Life becomes louder. Elliott's future becomes wider" [LP §Financial Strategy 11].
