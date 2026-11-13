@@ -3,7 +3,7 @@ type: topic
 domain: self
 status: active
 updated: 2026-11-13
-sources: ["raw/2026-03-09-life-plan-google-doc.md §Core Meta-Weaknesses through §The Most Damaging Blind Spots"]
+sources: ["raw/2026-03-09-life-plan-google-doc.md §Core Meta-Weaknesses through §The Most Damaging Blind Spots", "Financial Overview dashboard, as at 6 Nov 2026"]
 ---
 
 # Weaknesses and blind spots
@@ -47,7 +47,8 @@ uncommitted."
 - **(16) overestimating income stability** was borne out by the redundancy ([[powerfleet]]).
 - **(18) slow to ship** has counter-evidence since August: a SparkBoot beta with real testers, EmberSeed's public
   site, news service, shows and first client ([[sparkboot]], [[emberseed]]).
-- **(17) avoiding spending** was addressed head-on by the February diagnostic and the August budget
-  ([[spending-patterns]], [[budget-and-runway]]); whether the budget held is Q06.
+- **(17) avoiding spending** has been answered on visibility: the February diagnostic, the August budget and now a
+  dashboard reconciled to the statements. The budget itself did not hold: measured spending is $8,909 a month against
+  the August plan's $5,023 [Financial Overview, 6 Nov 2026] ([[spending-patterns]], [[budget-and-runway]]).
 
 Related: [[drift-patterns]], [[strengths]].
